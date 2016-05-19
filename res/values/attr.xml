@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 定义可见的数量 -->
+
+    <attr name="visiable_tab_count" format="integer" />
+
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="visiable_tab_count" />
+    </declare-styleable>
+
+</resources>
